@@ -1,0 +1,3 @@
+target 'YYLabelT' do
+pod 'YYKit'
+end
